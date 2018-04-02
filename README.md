@@ -4,12 +4,24 @@
 
 In this code along exercise we will add column structure to our page layouts.
 
-## Steps
+## Tasks for LearnIDE Environment Users
+
+1. Click the "OPEN IDE" button
+
+## Tasks for Local Environment Users
 
 1. Fork this repository.
-2. Clone your fork.
-3. cd into the folder for this lab.
-4. Code along with the included video below.
+2. Clone your fork locally.
+3. `cd` into the local repo you just cloned.
+
+## Process 
+
+1. Code along with the included video below.
+
+Keep in mind that in this video the instructor is using a local environment.
+If you're using the learnIDE environment, spin up your server by issuing
+an `httpserver` command in the Terminal. Then point your browser to the
+address provided. Edit your code along with the instructor.
 
 ## Code Along Exercise 4 ~ 28min
 
